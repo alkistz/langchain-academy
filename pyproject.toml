@@ -17,4 +17,5 @@ dependencies = [
     "wikipedia>=1.4.0",
     "trustcall>=0.0.26",
     "langgraph-cli>=0.1.67",
+    "python-dotenv>=1.0.1",
 ]
